@@ -1,5 +1,5 @@
 <!-- hide -->
-# SVM - Step by step guide
+# SVM - Step by step guid/workspaces/NLP-project-tutorial/spam.ipynbe
 <!-- endhide -->
 
 - Understanding a new dataset.
